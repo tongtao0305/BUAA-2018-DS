@@ -1,0 +1,7 @@
+6
+wangliang wangguoping wangguoan
+wangguoping wangtian wangguang
+wangguoan wangxiang wangsong
+wangtian wangqinian NULL
+wangxiang wangping NULL
+wangsong wanglong NULL
